@@ -1,4 +1,4 @@
-const avanca = document.querySelectorA11('.btn-próxima');
+const avanca = document.querySelectorAll('.btn-próxima');
 
 avanca.forEach(button => {
   button.addEventListener('click',function(){
